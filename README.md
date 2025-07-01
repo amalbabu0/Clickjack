@@ -56,13 +56,10 @@ This repository contains a Bash script designed to create a simple HTML page tha
 
 ## Example
 
-When prompted, if you enter ```
-https://example.com
-```
+    Enter the full URL of the domain you want to embed (e.g., https://example.com).
+    Choose whether to save the generated HTML file.
 
- and choose to save the file, the script will create an HTML file named ```
-example.html
-```
+
 
  (or any name you specify) and open it in Firefox.
 
