@@ -72,4 +72,4 @@ Feel free to submit issues or pull requests for improvements or bug fixes.
 
 ## Contact
 
-For any questions or feedback, please reach out to \[amalbabu2803@gmail.com.com(mailto:amalbabu2803@gmail.com)\].
+For any questions or feedback, please reach out to \amalbabu2803@gmail.com.com(mailto:amalbabu2803@gmail.com)\.
