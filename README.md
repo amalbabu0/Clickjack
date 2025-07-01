@@ -54,14 +54,10 @@ This repository contains a Bash script designed to create a simple HTML page tha
 - **Function show_progress**: Displays a progress bar while saving the file.
 - **Main Logic**: Handles user input and calls the appropriate functions based on whether the user wants to save the file.
 
-## Example
-
-    Enter the full URL of the domain you want to embed (e.g., https://example.com).
-    Choose whether to save the generated HTML file.
-
-
-
- (or any name you specify) and open it in Firefox.
+##Follow the prompts:
+   - Enter the full URL of the domain you want to embed (e.g., ```
+     https://example.com).
+   - Choose whether to save the generated HTML file.
 
 ## Cleanup
 
