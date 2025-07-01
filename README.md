@@ -24,7 +24,7 @@ This repository contains a Bash script designed to create a simple HTML page tha
 
    ```
    git clone https://github.com/yourusername/clickjacking-script.git
-   cd clickjacking-script
+   cd clickjacking
    
    ```
 2. Make the script executable:
