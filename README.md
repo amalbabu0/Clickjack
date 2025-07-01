@@ -40,11 +40,10 @@ This repository contains a Bash script designed to create a simple HTML page tha
    
    ```
 4. Follow the prompts:
-   - Enter the full URL of the domain you want to embed (e.g., ```
+   - Enter the full URL of the domain you want to embed (e.g.,
+   - ```
      https://example.com
      ```
-
-     ).
    - Choose whether to save the generated HTML file.
 
 ## Code Explanation
