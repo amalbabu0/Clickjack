@@ -55,7 +55,7 @@ This repository contains a Bash script designed to create a simple HTML page tha
 
 ## Example
 
-When prompted, if you enter https://example.com and choose to save the file, the script will create an HTML file named ```
+When prompted, if you enter URL and choose to save the file, the script will create an HTML file named
 example.html (or any name you specify) and open it in Firefox.
 
 ## Cleanup
@@ -72,4 +72,4 @@ Feel free to submit issues or pull requests for improvements or bug fixes.
 
 ## Contact
 
-For any questions or feedback, please reach out to \[[your-email@example.com](mailto:your-email@example.com)\].
+For any questions or feedback, please reach out to \[amalbabu2803@gmail.com.com(mailto:amalbabu2803@gmail.com)\].
